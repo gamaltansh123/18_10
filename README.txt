@@ -8,4 +8,4 @@ Then upload BOTH files to GitHub:
 
 The invitation starts with a full-screen TAP TO OPEN cover.
 The song starts after the user taps, which works with mobile browser autoplay rules.
-The cover fades away and the invitation becomes scrollable.
+The cover fades away and the invitation becomes scrollable..
